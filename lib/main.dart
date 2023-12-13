@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'core/routes/app_routes.dart';
-import 'core/routes/on_generate_route.dart';
-import 'core/themes/app_themes.dart';
+import 'package:grocery_app/core/routes/app_routes.dart';
+import 'package:grocery_app/core/routes/on_generate_route.dart';
+import 'package:grocery_app/core/themes/app_themes.dart';
 
 void main() {
   runApp(const MyApp());
